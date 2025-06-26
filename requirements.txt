@@ -5,13 +5,11 @@ python-binance
 python-dotenv
 aiohttp
 aiogram
-cryptodome
 websockets
 setuptools
 regex
 tzlocal
 tqdm
 pytz
-datetime
 numpy==1.23.5
-
+pycryptodome
