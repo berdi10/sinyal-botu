@@ -3,3 +3,6 @@ python-binance
 python-dotenv
 aiohttp
 aiogram
+pandas
+pandas_ta
+requests
