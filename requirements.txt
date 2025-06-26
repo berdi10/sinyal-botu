@@ -1,15 +1,5 @@
-setuptools==65.5.0
-requests
-pandas
-pandas_ta
+setuptools>=65.0.0
 python-binance
 python-dotenv
 aiohttp
 aiogram
-websockets
-regex
-tzlocal
-tqdm
-pytz
-numpy==1.23.5
-pycryptodome
