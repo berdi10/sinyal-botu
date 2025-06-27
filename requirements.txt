@@ -1,4 +1,4 @@
 pandas==1.5.3
 numpy==1.23.5
-setuptools>=65.5.0
-wheel
+setuptools==65.5.1
+wheel==0.40.0
