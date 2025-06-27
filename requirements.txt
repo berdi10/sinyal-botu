@@ -1,8 +1,10 @@
 aiohttp==3.9.5
-pandas==2.2.2
-numpy==1.26.4
-pandas_ta==0.3.14b0
+aiofiles==23.2.1
+aiogram==3.3.0
+pandas==1.5.3
+pandas-ta==0.3.14b0
 python-binance==1.0.17
+numpy==1.23.5
+requests==2.31.0
 python-dotenv==1.0.1
 pycryptodome==3.20.0
-requests==2.31.0
